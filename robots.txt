@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fitplanet.github.io/clothing/sitemap.xml

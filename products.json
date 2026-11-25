@@ -1,0 +1,132 @@
+{
+  "store": {
+    "name": "Threadhaus",
+    "tagline": "Baggy fits, clean shirts, fresh kicks.",
+    "whatsapp": "923000000000",
+    "currency": "Rs"
+  },
+  "products": [
+    {
+      "id": "shirt-1", "category": "shirts", "style": "tee",
+      "name": "Boxy Heavyweight Tee", "price": 2490, "oldPrice": 2990, "badge": "New",
+      "description": "Thick 240 gsm cotton with a boxy cut and a drop shoulder. Holds its shape wash after wash.",
+      "sizes": ["S", "M", "L", "XL"],
+      "colors": [{"name": "Black", "hex": "#161616"}, {"name": "Bone", "hex": "#e8e1d2"}, {"name": "Olive", "hex": "#55603a"}],
+      "image": "", "featured": true, "inStock": true
+    },
+    {
+      "id": "shirt-2", "category": "shirts", "style": "tee",
+      "name": "Drop-Shoulder Everyday Tee", "price": 1990, "oldPrice": 0, "badge": "",
+      "description": "Soft combed cotton in a relaxed oversized fit. Your go-to under any jacket.",
+      "sizes": ["S", "M", "L", "XL"],
+      "colors": [{"name": "Sky", "hex": "#8fb4d6"}, {"name": "White", "hex": "#f6f4ef"}, {"name": "Brick", "hex": "#a8452f"}],
+      "image": "", "featured": false, "inStock": true
+    },
+    {
+      "id": "shirt-3", "category": "shirts", "style": "long",
+      "name": "Waffle Knit Long Sleeve", "price": 3290, "oldPrice": 0, "badge": "Best seller",
+      "description": "Textured waffle knit that layers well and stays warm without feeling heavy.",
+      "sizes": ["S", "M", "L", "XL"],
+      "colors": [{"name": "Charcoal", "hex": "#3a3a3c"}, {"name": "Cream", "hex": "#efe6d2"}],
+      "image": "", "featured": true, "inStock": true
+    },
+    {
+      "id": "shirt-4", "category": "shirts", "style": "tee",
+      "name": "Washed Pocket Tee", "price": 2190, "oldPrice": 2590, "badge": "",
+      "description": "Garment-washed for a lived-in feel from day one, with a simple chest pocket.",
+      "sizes": ["M", "L", "XL"],
+      "colors": [{"name": "Washed Blue", "hex": "#6f8aa8"}, {"name": "Washed Black", "hex": "#2b2b2d"}, {"name": "Clay", "hex": "#b5745a"}],
+      "image": "", "featured": false, "inStock": true
+    },
+    {
+      "id": "shirt-5", "category": "shirts", "style": "long",
+      "name": "Ribbed Long Sleeve Tee", "price": 2790, "oldPrice": 0, "badge": "",
+      "description": "Stretchy ribbed cotton that sits close to the body. Pairs well with baggy pants.",
+      "sizes": ["S", "M", "L"],
+      "colors": [{"name": "Black", "hex": "#161616"}, {"name": "Sand", "hex": "#d8c7a3"}],
+      "image": "", "featured": false, "inStock": false
+    },
+
+    {
+      "id": "pants-1", "category": "pants", "style": "baggy",
+      "name": "Wide-Leg Baggy Jeans", "price": 4990, "oldPrice": 5690, "badge": "Best seller",
+      "description": "Rigid denim with a low rise and a wide straight leg. Stacks nicely over sneakers.",
+      "sizes": ["28", "30", "32", "34", "36"],
+      "colors": [{"name": "Indigo", "hex": "#2c3e63"}, {"name": "Black", "hex": "#1a1a1a"}, {"name": "Light Wash", "hex": "#9db4cf"}],
+      "image": "", "featured": true, "inStock": true
+    },
+    {
+      "id": "pants-2", "category": "pants", "style": "cargo",
+      "name": "Parachute Cargo Pants", "price": 4490, "oldPrice": 0, "badge": "New",
+      "description": "Lightweight nylon blend with big cargo pockets and adjustable ankle toggles.",
+      "sizes": ["28", "30", "32", "34", "36"],
+      "colors": [{"name": "Olive", "hex": "#5b6340"}, {"name": "Black", "hex": "#1a1a1a"}, {"name": "Stone", "hex": "#b9ad96"}],
+      "image": "", "featured": true, "inStock": true
+    },
+    {
+      "id": "pants-3", "category": "pants", "style": "baggy",
+      "name": "Pleated Baggy Trousers", "price": 3990, "oldPrice": 0, "badge": "",
+      "description": "Smart enough for dinner, baggy enough for the weekend. Front pleats and a relaxed leg.",
+      "sizes": ["28", "30", "32", "34"],
+      "colors": [{"name": "Charcoal", "hex": "#3b3b3f"}, {"name": "Cream", "hex": "#e6dcc6"}],
+      "image": "", "featured": false, "inStock": true
+    },
+    {
+      "id": "pants-4", "category": "pants", "style": "baggy",
+      "name": "Heavy Fleece Sweatpants", "price": 3290, "oldPrice": 3790, "badge": "",
+      "description": "Brushed fleece interior, wide leg and an elastic waistband with a drawcord.",
+      "sizes": ["28", "30", "32", "34", "36"],
+      "colors": [{"name": "Heather Grey", "hex": "#8a8d91"}, {"name": "Black", "hex": "#1a1a1a"}],
+      "image": "", "featured": false, "inStock": true
+    },
+    {
+      "id": "pants-5", "category": "pants", "style": "cargo",
+      "name": "Double-Knee Work Pants", "price": 5490, "oldPrice": 0, "badge": "Limited",
+      "description": "Tough cotton canvas with double-knee panels and plenty of room through the leg.",
+      "sizes": ["30", "32", "34", "36"],
+      "colors": [{"name": "Brown", "hex": "#6b4a32"}, {"name": "Black", "hex": "#1a1a1a"}],
+      "image": "", "featured": false, "inStock": true
+    },
+
+    {
+      "id": "shoes-1", "category": "shoes", "style": "low",
+      "name": "Chunky Runner", "price": 8990, "oldPrice": 9990, "badge": "New",
+      "description": "Thick cushioned sole and a breathable mesh upper. Comfortable all day, loud in the right way.",
+      "sizes": ["40", "41", "42", "43", "44", "45"],
+      "colors": [{"name": "Cloud", "hex": "#ecebe7"}, {"name": "Black", "hex": "#1a1a1a"}, {"name": "Fog", "hex": "#b8bcc2"}],
+      "image": "", "featured": true, "inStock": true
+    },
+    {
+      "id": "shoes-2", "category": "shoes", "style": "low",
+      "name": "Court Low Sneaker", "price": 6490, "oldPrice": 0, "badge": "",
+      "description": "Clean leather-look upper and a flat cupsole. Easy to style with anything in your wardrobe.",
+      "sizes": ["40", "41", "42", "43", "44"],
+      "colors": [{"name": "White", "hex": "#f4f2ec"}, {"name": "Navy", "hex": "#1d2c4d"}],
+      "image": "", "featured": false, "inStock": true
+    },
+    {
+      "id": "shoes-3", "category": "shoes", "style": "high",
+      "name": "Retro High-Top", "price": 7490, "oldPrice": 0, "badge": "Best seller",
+      "description": "Padded ankle collar and a vintage court shape. A street classic that goes with baggy pants.",
+      "sizes": ["40", "41", "42", "43", "44", "45"],
+      "colors": [{"name": "Black", "hex": "#1a1a1a"}, {"name": "Red", "hex": "#b3261e"}, {"name": "White", "hex": "#f4f2ec"}],
+      "image": "", "featured": true, "inStock": true
+    },
+    {
+      "id": "shoes-4", "category": "shoes", "style": "low",
+      "name": "Suede Skate Shoe", "price": 5990, "oldPrice": 6490, "badge": "",
+      "description": "Durable suede panels, a grippy vulcanised sole and extra padding in the tongue.",
+      "sizes": ["40", "41", "42", "43", "44"],
+      "colors": [{"name": "Tan", "hex": "#b08457"}, {"name": "Olive", "hex": "#5b6340"}, {"name": "Black", "hex": "#1a1a1a"}],
+      "image": "", "featured": false, "inStock": true
+    },
+    {
+      "id": "shoes-5", "category": "shoes", "style": "high",
+      "name": "Trail Hiker Sneaker", "price": 9490, "oldPrice": 0, "badge": "",
+      "description": "Rugged lugged outsole with a supportive high cut. Built for gravel, rain and city streets.",
+      "sizes": ["41", "42", "43", "44", "45"],
+      "colors": [{"name": "Moss", "hex": "#4d5a3a"}, {"name": "Sand", "hex": "#cdbb98"}],
+      "image": "", "featured": false, "inStock": true
+    }
+  ]
+}
